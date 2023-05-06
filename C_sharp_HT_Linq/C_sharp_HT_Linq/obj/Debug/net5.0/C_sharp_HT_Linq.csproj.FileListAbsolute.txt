@@ -1,0 +1,16 @@
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\bin\Debug\net5.0\C_sharp_HT_Linq.exe
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\bin\Debug\net5.0\C_sharp_HT_Linq.deps.json
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\bin\Debug\net5.0\C_sharp_HT_Linq.runtimeconfig.json
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\bin\Debug\net5.0\C_sharp_HT_Linq.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\bin\Debug\net5.0\C_sharp_HT_Linq.dll
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\bin\Debug\net5.0\ref\C_sharp_HT_Linq.dll
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\bin\Debug\net5.0\C_sharp_HT_Linq.pdb
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\obj\Debug\net5.0\C_sharp_HT_Linq.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\obj\Debug\net5.0\C_sharp_HT_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\obj\Debug\net5.0\C_sharp_HT_Linq.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\obj\Debug\net5.0\C_sharp_HT_Linq.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\obj\Debug\net5.0\C_sharp_HT_Linq.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\obj\Debug\net5.0\C_sharp_HT_Linq.dll
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\obj\Debug\net5.0\ref\C_sharp_HT_Linq.dll
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\obj\Debug\net5.0\C_sharp_HT_Linq.pdb
+C:\Users\LEGION\source\repos\C_sharp_HT_Linq\C_sharp_HT_Linq\obj\Debug\net5.0\C_sharp_HT_Linq.genruntimeconfig.cache
